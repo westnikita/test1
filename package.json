@@ -1,0 +1,25 @@
+{
+  "name": "testpkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westnikita/test1.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "westnikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/westnikita/test1/issues"
+  },
+  "homepage": "https://github.com/westnikita/test1#readme",
+  "dependencies": {
+    "sass": "^1.34.0"
+  }
+}
